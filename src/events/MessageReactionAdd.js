@@ -8,7 +8,6 @@ module.exports.info = {
 }
 // This file is triggered only when new members join a server where the bot is in.
 /**
- * 
  * @param {SGClient} Bot 
  * @param {MessageReaction} reaction
  * @param {User} user
