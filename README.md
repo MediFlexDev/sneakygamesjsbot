@@ -6,7 +6,12 @@ Please, when making updates, remember to list any npm modules that you add. This
 
  - Discord.js (v13)
  - fs (newest)
-
+ - quickmongo
+ - moment
+ - moment-duration-format
+ - uuid
+ - dotenv
+ - ms
 
 ## Update log:
 1. Updated and fixed command handler
@@ -26,3 +31,5 @@ Please, when making updates, remember to list any npm modules that you add. This
 4. Added 'purge' command, added welcome channel with invite count.
 
 5. Added reminders.
+
+6. Added self roles.
